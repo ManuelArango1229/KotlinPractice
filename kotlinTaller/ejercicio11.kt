@@ -1,8 +1,8 @@
 /*
  *Autor: Juan Manuel Arango Rodas
  *Cod Estd: 2259571
- *Fecha: 2025-03-08
- *Descripción: Solución ejercicio 3
+ *Fecha: 2025-03-09
+ *Descripción: Solución ejercicio 11
 */
 
 fun main(args: Array<String>) {
